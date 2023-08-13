@@ -5,7 +5,7 @@ Hello welcome to the repo of Long Time No.... which is a cryptocurrency that is 
 To watch a quick run through: https://www.youtube.com/watch?v=fZaP-H-yOZc&ab_channel=Nessma
 **note the hashs show on the users device only for the sake of demonstration. 
 
-
+CRYPTO OPERATION
 In hashfunction.h/.cpp and sha25modif.h/.cpp are the files that contain the creation of the hash. 
 - A user input aka the secret message is covered by using Hill cipher - a polygraphic substitution cipher based on linear algebra to hide the message.
 - That user input is sent over to the known cryptographic hash (SHA256 w/ slight modification) to create the final hash
