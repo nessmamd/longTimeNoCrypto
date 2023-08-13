@@ -10,6 +10,8 @@ In hashfunction.h/.cpp and sha25modif.h/.cpp are the files that contain the crea
 - A user input aka the secret message is covered by using Hill cipher - a polygraphic substitution cipher based on linear algebra to hide the message.
 - That user input is sent over to the known cryptographic hash (SHA256 w/ slight modification) to create the final hash
 
+In mRoot.h/.ccp and node.h/.cpp there is the creation of a merkle tree and the proof for it as well.
+
 The rest of the files are for the creation of the BlockChain entity and all respective Blocks.
 
 SOCKET OPERATION
